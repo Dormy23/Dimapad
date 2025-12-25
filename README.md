@@ -3,8 +3,8 @@
 ## Description
 
 Dimapad is An elegant 3x2 macropad with rotary encoder and OLED display
-
-
+![alt text](image-2.png)
+![alt text](image.png)
 ![alt text](image-1.png)
 
 ## Pinout
